@@ -3,4 +3,4 @@ from django.shortcuts import render
 # Create your views here.
 
 def home(request):
-    return render(request, "spotify/home.html")
+    return render(request, "spotify/index.html")
