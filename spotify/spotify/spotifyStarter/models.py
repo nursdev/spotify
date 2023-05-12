@@ -2,6 +2,7 @@ from enum import Enum
 
 from django.db import models
 
+# Create your models here.
 
 class UserType(models.TextChoices):
     USER = 1
@@ -47,4 +48,3 @@ class PlaylistUser(models.Model):
 class PlaylistMusic(models.Model):
     playlist_id = models.ForeignKey('Playlist', on_delete=models.PROTECT)
     music_id = models.ForeignKey('Music', on_delete=models.PROTECT)
-

@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11" project-jdk-type="Python SDK" />
+=======
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (pythonProject4)" project-jdk-type="Python SDK" />
+>>>>>>> 62abc144a50aaba9731dc60e1d7e07e012a56fe5
   <component name="PyCharmProfessionalAdvertiser">
     <option name="shown" value="true" />
   </component>
